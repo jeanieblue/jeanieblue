@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# samiajon
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Samiajon </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인천대학교 정보통신공학과 재학중인 초보 개발자 하진희입니다👏 </div> 
